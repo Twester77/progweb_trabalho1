@@ -10,7 +10,7 @@ flex:1;
 article { 
 flex: 1;
 min-width: 300px;
-background-color:" rgb 255 255 255 0";
+background-color:" rgb (255 255 255 0)";
 padding: 15px;
 border-radius: 8px;
 box-shadow: 4px 8px rgba (0,0,0,0,1);
