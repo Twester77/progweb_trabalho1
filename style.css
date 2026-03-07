@@ -10,7 +10,7 @@ flex:1;
 article { 
 flex: 1;
 min-width: 300px;
-background-color:" rgb (255 255 255 0)";
+background-color: rgba(52, 93, 206, 0);
 padding: 15px;
 border-radius: 8px;
 box-shadow: 4px 8px rgba (0,0,0,0,1);
@@ -39,3 +39,43 @@ header {
         padding: 15px;
         text-align: center;
     }
+
+
+    .perfil-usuario img {
+        width: 40 px;
+        border-radius: 50%;
+
+
+    }
+
+    .container-cards {
+        display:flex;
+        flex-wrap: wrap;
+        gap: 20px;
+
+    }
+
+    article {
+        flex: 1;
+        min-width: 250 px;
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0,1) ;
+
+    }
+
+    article h2 {
+        margin-bottom: 10px;
+        color: #555;
+
+    }
+
+
+footer {
+     background-color: #333;
+     color:aliceblue;
+     text-align:  center;
+     padding: 15px;
+     font: size 14px;
+}
