@@ -11,7 +11,7 @@
     <div class="header-content">
         <h2> Gestão de Usuários </h2>
         <p> Visualize e gerencie as permissões de usuários do sistema. </p>
-        <\div>
+</div>
 <div class="table-responsive">
 
     <table>

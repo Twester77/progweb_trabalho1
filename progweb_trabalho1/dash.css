@@ -128,6 +128,8 @@ footer {
         text-align:center;
         padding:15px;
         font-size: 14px;
+}
+
 
 .table-responsive {
 background-color: white;
@@ -137,8 +139,8 @@ overflow: hidden;
 }
 
 table { 
-    width:100%
-border-colapse: collapse;
+    width:100%;
+    border-collapse: collapse;
 }
 
 
@@ -147,7 +149,16 @@ border-colapse: collapse;
     color:aliceblue;
     padding: 15px;
     text-align:left;
-    font-size: 13px;
+    font-size: 14px;
     text-transform: uppercase;
 
+}
+
+
+
+td {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    font-size: 15px;
+    color:#444;
 }
