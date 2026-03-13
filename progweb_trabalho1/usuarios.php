@@ -34,8 +34,9 @@
                 <td> Administrador </td>
                 <td> Ativo </td>
                 <td> Editar </td>
-                <a href="#"class="btn-acao"> Editar </a>
+               <td> <a href="#"class="btn-acao"> Editar </a>
                 <a href="#"class="btn-acao"> Excluir </a>
+               </td>
 
             </tr>
 
@@ -46,8 +47,10 @@
                 <td> Administrador </td>
                 <td> Ativo </td>
                 <td> Editar </td>
+                <td>
                 <a href="#"class="btn-acao"> Editar </a>
                 <a href="#"class="btn-acao"> Excluir </a>
+                </td>
             </tr>           
             
 </tbody>

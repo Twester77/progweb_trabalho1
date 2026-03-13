@@ -35,7 +35,7 @@ article {
         color: white;
         text-decoration: none;
         border-radius: 4px;
-        padding: 20px;
+        padding: 5x 10px;
         background-color: #007bff;
         transition: background-color 0.3s ;
         text-align: center;
@@ -51,10 +51,10 @@ article {
         border-radius: 4px;
         font-size: 13px;
         cursor:pointer;
-        display:inline;
-        padding: 20px;
-        background-color:rgba(0,0,0,0.5);
-
+        text-decoration: none;
+        transition: background 0.3s ;
+        display:inline-block;
+        color: white;
 
     }
 
