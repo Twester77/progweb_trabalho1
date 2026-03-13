@@ -17,14 +17,12 @@
     <table>
         <thead>
             <tr>
-                
                 <th> ID</th> 
                 <th> Nome </th>
                 <th> E-mail </th>
                 <th> Acesso </th>
                 <th> Status </th>
                 <th> Acões </th>
-
             </tr>
         </thead>
 
@@ -32,10 +30,13 @@
             <tr>
                 <td> 01 </td>
                 <td> Leonardo Florindo </td>
-                <td> 87826unifev.edu.br </td>
+                <td> 87826@unifev.edu.br </td>
                 <td> Administrador </td>
                 <td> Ativo </td>
                 <td> Editar </td>
+                <a href="#"class="btn-acao"> Editar </a>
+                <a href="#"class="btn-acao"> Excluir </a>
+
             </tr>
 
             <tr>
@@ -45,8 +46,9 @@
                 <td> Administrador </td>
                 <td> Ativo </td>
                 <td> Editar </td>
-            </tr>
-            
+                <a href="#"class="btn-acao"> Editar </a>
+                <a href="#"class="btn-acao"> Excluir </a>
+            </tr>           
             
 </tbody>
 
