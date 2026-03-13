@@ -58,7 +58,12 @@ article {
 
     }
 
-
+  .badge {
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+  }
 article h2 {
     color: #004a8d;
     margin-bottom: 10px;

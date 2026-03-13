@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Acesso ao Sistema</title>
+    <title>Listagem dos Usuários</title>
     <link rel= "stylesheet" href="dash.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -34,7 +34,7 @@
                 <td> Leonardo Florindo </td>
                 <td> 87826@unifev.edu.br </td>
                 <td> Administrador </td>
-                <td> Ativo </td>
+                <td> <span class= "badge ativo"> Ativo </span> </td>
                 <td> Editar </td>
                <td> <a href="#"class="btn-acao"> Editar </a>
                 <a href="#"class="btn-acao"> Excluir </a>
@@ -47,7 +47,7 @@
                 <td>João Lucas </td>
                 <td> Joaolucas_eh_gay@unifev.edu.br</td>
                 <td> Administrador </td>
-                <td> Ativo </td>
+                <td> <span class= "badge ativo"> Ativo </span> </td>
                 <td> Editar </td>
                 <td>
                 <a href="#"class="btn-acao"> Editar </a>
